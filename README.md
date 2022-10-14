@@ -1,4 +1,4 @@
-# Malicious-Server-Hack
+# Malicious Server Hack
 The dataset is on [Kaggle](https://www.kaggle.com/datasets/lplenka/malicious-server-hack). The work is to build a predictive model which can identify a pattern in 
 these variables and suggest that a hack is going to happen so that the cybersecurity can somehow stop it before it actually happens. 
 And I have to predict the column **MALICIOUS_OFFENSE**.
